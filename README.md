@@ -100,7 +100,7 @@ http://localhost:8000/deletePokemon?id=1
 
 ## Authors
 
-* **Romain Renard** - *Initial work* - [Romain Renard](https://github.com/romain-renard)
+* **wotm** - *Initial work* - [wotm](https://github.com/wotm)
 
 ## Acknowledgments
 

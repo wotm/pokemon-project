@@ -1,0 +1,4 @@
+#Files will be ignored by GIT
+__pycache__/
+.idea/
+bash.exe.stackdump
